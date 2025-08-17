@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SY99KTy68w8=",
+  "success": true,
+  "projectFilePath": "D:\\Code\\fullstack\\mvp-school-management-system\\SMS.API\\SMS.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bbmsp\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.7\\microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
+    "C:\\Users\\bbmsp\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

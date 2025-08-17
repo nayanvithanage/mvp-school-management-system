@@ -88,6 +88,14 @@ The School Management System is designed to streamline and digitalize the operat
 
 ---
 
+### Phase 1 Delivery Plan
+
+| Component                           | ETA           |
+|-------------------------------------|---------------|
+| Setup environment, db & system, Student and Acedemic components | 18th August |
+| Reports & Security implementation | 19th August |
+| improvements & Deployment | 20th August |
+
 ### Future Expansion (Next Phases)
 
 - **Phase 2:** Teacher Management & Attendance Tracking
